@@ -1,0 +1,4 @@
+Hola soy un archivo
+Tengo varias líneas
+Esta es la tercera
+Fin del archivo
